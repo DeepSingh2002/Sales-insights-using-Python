@@ -9,7 +9,6 @@ Product ID
 Product category
 Sales quantity
 Sales amount
-Customer information (optional)
 Exploratory Analysis
 In this project, various exploratory data analysis techniques have been applied to understand the sales data better. The analysis includes but is not limited to:
 
